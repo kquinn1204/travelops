@@ -1,6 +1,6 @@
 ---
 global:
-  pattern: travelops
+  pattern: multicloud-gitops
 
   options:
     useCSV: false
